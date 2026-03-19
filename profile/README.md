@@ -1,5 +1,5 @@
 
-<img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white" alt="Discord" />
+<img src="https://komarev.com/ghpvc/?username=godon-dev&label=Profile%20views&color=0e75b6&style=flat" alt="godon-dev" />
 
 ---
 ### 🧠 🤖|🤖 ⚙️ 🦋 🧬 🧬 🎯 📈 
