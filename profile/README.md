@@ -6,6 +6,6 @@
 ### 👨 💻 👩 💻 🏗️  🏢 🛠️  📊
 ---
 
-Your Open Source Optimization Engine for AI Minds and Humans Pilots.
+Your Open Source Optimization Engine for AI Minds 🤖🧠  and Human Pilots 👨.
 
 Please refer to [Documentation](https://godon-dev.github.io/godon-documentation/) for further.
