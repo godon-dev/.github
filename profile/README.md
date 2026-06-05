@@ -16,7 +16,7 @@ Please refer to [Documentation](https://godon-dev.github.io/godon-documentation/
 ### RealTime
 
 <p align="left">
-  <a href="https://discord.gg/JZHSBpVr">
+  <a href="https://discord.gg/4N7jF7s3yv">
     <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
