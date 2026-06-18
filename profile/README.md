@@ -6,6 +6,8 @@
 
 ## Godon Project
 
+### Open Source Live Systems Tending and Causal Apprehension Engine
+
 ### 👨 💻 👩 💻 🏗️ 🏢 🛠️ 📊
 
 ---
