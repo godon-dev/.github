@@ -16,23 +16,18 @@
 - Probe, hold, listen — the system's response reveals who is wired to whom
 - One detection, one edge. Many edges, a topology that nobody drew but everybody lives with
 - Coupling that isn't measured can't be perceived — by any mind, human or AI. Godon makes the signal exist
-- Every existing approach either assumes the model — controllers, digital
-  twins — or only watches — observability, AIOps. Godon does neither:
-  running the system becomes measuring it
+- Not model-assumed like controllers, not passive like observability — running becomes measuring
 - Not observation — experimentation. Real counterfactuals, direct causation, not inferred from correlations
 - Breeders are the instruments: safe, guarded, rollback-capable agents that probe and tend in production
 - Human and LLM intuition gets tested against reality in the loop — kept if better, discarded if not
-- Measured, not modeled. Live systems drift — prediction error drives
-  re-measurement, keeping the map true to the system as it is now
+- The map is measured, not modeled — re-measured where prediction fails as the system drifts
 - The same signal that discovers coupling can certify isolation
+- The aim: guidance, not command — with the system's grain, toward states chosen with it
 - Open source. AGPLv3
-- The aim is guidance, not command — worked with, not against; moved
-  within their own grain; given back to as much as drawn from; steered
-  toward states chosen with the system, not imposed on it
 
 ---
 
-📖 [Documentation](https://godon-dev.github.io/godon-documentation/) · 📝 [Blog](https://godon-dev.github.io/godon-documentation/blog/) · 🔬 [Open Research](https://godon-dev.github.io/godon-documentation/open_research/) · 🤝 [Contributing](https://godon-dev.github.io/godon-documentation/contributing/)
+📖 [Documentation](https://godon-dev.github.io/godon-documentation/) · 📝 [Blog](https://godon-dev.github.io/godon-documentation/blog/) · 🔬 [Open Research](https://godon-dev.github.io/godon-documentation/open_research/) · 📄 [Publications](https://doi.org/10.5281/zenodo.21962956) · 🤝 [Contributing](https://godon-dev.github.io/godon-documentation/contributing/)
 
 ### RealTime
 
