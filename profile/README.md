@@ -27,7 +27,7 @@
 
 ---
 
-📖 [Documentation](https://godon-dev.github.io/godon-documentation/) · 📝 [Blog](https://godon-dev.github.io/godon-documentation/blog/) · 🔬 [Open Research](https://godon-dev.github.io/godon-documentation/open_research/) · 📄 [Publications](https://doi.org/10.5281/zenodo.21962956) · 🤝 [Contributing](https://godon-dev.github.io/godon-documentation/contributing/)
+📖 [Documentation](https://godon-dev.github.io/godon-documentation/) · 📝 [Blog](https://godon-dev.github.io/godon-documentation/blog/) · 🔬 [Open Research](https://godon-dev.github.io/godon-documentation/open_research/) · 📄 [Publications](https://godon-dev.github.io/godon-documentation/publications/) · 🤝 [Contributing](https://godon-dev.github.io/godon-documentation/contributing/)
 
 ### RealTime
 
