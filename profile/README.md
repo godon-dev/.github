@@ -18,7 +18,7 @@
 - Coupling that isn't measured can't be perceived — by any mind, human or AI. Godon makes the signal exist
 - Not model-assumed like controllers, not passive like observability — running becomes measuring
 - Not observation — experimentation. Real counterfactuals, direct causation, not inferred from correlations
-- Breeders are the instruments: safe, guarded, rollback-capable agents that probe and tend in production
+- Systemtenders are the workers: safe, guarded, rollback-capable robots that probe and tend in production
 - Human and LLM intuition gets tested against reality in the loop — kept if better, discarded if not
 - The map is measured, not modeled — re-measured where prediction fails as the system drifts
 - The same signal that discovers coupling can certify isolation
