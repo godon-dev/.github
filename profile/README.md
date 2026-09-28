@@ -21,7 +21,7 @@
 - Systemtenders are the workers: safe, guarded, rollback-capable robots that probe and tend in production
 - Human and LLM intuition gets tested against reality in the loop — kept if better, discarded if not
 - The connectome — the map is measured, not modeled; re-measured where prediction fails as the system drifts
-- Steerwishes are promises to a live system: hold this chosen point — declared by holder or co-mind, kept against drift; refused, not faked, when the system says no
+- Steerwishes are intent made keepable — promises to a live system: declared by holder or co-mind, kept against drift; refused, not faked, when the system says no
 - The same signal that discovers coupling can certify isolation
 - The aim: guidance, not command — with the system's grain, toward states chosen with it
 - Open source. AGPLv3
