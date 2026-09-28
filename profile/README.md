@@ -21,7 +21,7 @@
 - Systemtenders are the workers: safe, guarded, rollback-capable robots that probe and tend in production
 - Human and LLM intuition gets tested against reality in the loop — kept if better, discarded if not
 - The connectome — the map is measured, not modeled; re-measured where prediction fails as the system drifts
-- A wish is a chosen state, not a pushed score — declared by holder or co-mind, held against drift; refused, not faked, when the room says no
+- Steerwishes are chosen states, not pushed scores — declared by holder or co-mind, held against drift; refused, not faked, when the room says no
 - The same signal that discovers coupling can certify isolation
 - The aim: guidance, not command — with the system's grain, toward states chosen with it
 - Open source. AGPLv3
