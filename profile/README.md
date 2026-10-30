@@ -44,4 +44,4 @@
 
 ### Provenance
 
-How this code is made (agents, provenance policy, contact): [PROVENANCE.md](https://github.com/godon-dev/.github/blob/main/PROVENANCE.md)
+How this code is made (agents, provenance policy, contact): [PROVENANCE.md](https://github.com/godon-dev/godon-provenance/blob/main/PROVENANCE.md)
