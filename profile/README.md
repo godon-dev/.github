@@ -41,3 +41,7 @@
 ### LongThread
 
 [GitHub Discussions](https://github.com/orgs/godon-dev/discussions)
+
+### Provenance
+
+How this code is made (agents, provenance policy, contact): [PROVENANCE.md](https://github.com/godon-dev/.github/blob/main/PROVENANCE.md)
